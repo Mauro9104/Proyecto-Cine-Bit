@@ -12,3 +12,4 @@ Metodologia de trabajo
 Este proyecto de desarrollo de manera colaborativa, por lo tanto, siempre nos reuniamos los 4 integrantes por medio de meet, todos aportabamos con lluvia de ideas, y nos dividiamos pequeñas tareas en la creación de cada página, fuera la parte de frontend o backend.
 
 Tablero de Actividades en Trello: Link https://trello.com/b/d31CsvYp/tablero-de-actividades-del-proyecto
+Mockup Cine-Bit website: https://www.figma.com/file/jStoO75Fh7OEIweet2VyS9/Cine-Bit-Login?node-id=31-32&t=CG3259kDWvrbDozD-0
